@@ -1,0 +1,5 @@
+torch==2.0.1+cu118
+torch-geometric==2.6.1
+
+
+#.pth files can be loaded through the torch.load() function, such as "train_data = torch.load('train_data.pth')"
