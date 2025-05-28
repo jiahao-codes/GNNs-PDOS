@@ -11,7 +11,7 @@ The code implements four models:
 - ​**CGT-phys**​  
 
 ## Framework Dependency  
-The graph neural network (GNN) models are built on the ​**​[PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric)​**​ framework.  
+All GNN models are built on the ​frameworks from **​[PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric)​**​ .  
 
 ## Support  
 For any questions, please raise issues or contact wogaho1999@gmail.com.
