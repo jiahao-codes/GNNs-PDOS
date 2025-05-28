@@ -12,3 +12,6 @@ The code implements four models:
 
 ## Framework Dependency  
 The graph neural network (GNN) models are built on the ​**​[PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric)​**​ framework.  
+
+## Support  
+For any questions, please raise issues or contact wogaho1999@gmail.com.
