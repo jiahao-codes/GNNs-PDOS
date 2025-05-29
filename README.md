@@ -1,6 +1,6 @@
 # Repository Description  
 
-This repository contains the source code for the paper:  
+This repository contains the model codes for the paper:  
 ​**​"Graph Transformer Model Integrating Physical Features for Projected Electronic Density of States Prediction"​**.  
 
 ## Included Models  
