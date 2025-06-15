@@ -8,9 +8,9 @@ This repository contains the model codes for the paper:
 Correct a spelling mistake in the article:
 ![Paper](https://github.com/jiahao-codes/GNNs-PDOS/blob/e69d3c455fe2df436a3080f975c4bb23f9fa1d72/pic/correct.png)
 
-# Dataset
+# Dataset and Model weight
 Since the size of the dataset exceeded the limit of GitHub, they are shared via Google Drive:
-https://drive.google.com/file/d/1XwBCZupKiv3EdzNBLgKgHGOdUxrMuJvg/view?usp=sharing
+https://drive.google.com/drive/folders/15qjugcx1XWpVi5tR28TBiGYRAwlAtrgE?usp=sharing
 
 ## Included Models  
 The code implements four models:  
