@@ -1,12 +1,13 @@
 ## Repository Description  
 
 This repository contains the model codes for the paper:  
-​**​《Graph Transformer Model Integrating Physical Features for Projected Electronic Density of States Prediction》 https://doi.org/10.1021/acs.jpca.5c03006​**.  
+​**​《Graph Transformer Model Integrating Physical Features for Projected Electronic Density of States Prediction》**. 
+**​https://doi.org/10.1021/acs.jpca.5c03006​**  
+If the code is useful to you, please consider citing it.
 ![Paper](https://github.com/jiahao-codes/GNNs-PDOS/blob/0f20a78fbbb01d1ff0da003845bb42cde2c63b5a/pic/paper.png)
 
-## Correct (June 16, 2025)
-Correct a spelling mistake in the article:
-![Paper](https://github.com/jiahao-codes/GNNs-PDOS/blob/e69d3c455fe2df436a3080f975c4bb23f9fa1d72/pic/correct.png)
+## Model Schematic Diagram
+![Model](https://github.com/jiahao-codes/GNNs-PDOS/blob/31db86bc26fb0db394fd80d0fdc8b17b76c8e470/pic/model.png)
 
 ## Dataset and Model weight
 Since the size of the dataset exceeded the limit of GitHub, they are shared via Google Drive:
