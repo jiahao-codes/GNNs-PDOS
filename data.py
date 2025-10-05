@@ -88,13 +88,12 @@ class CIFData(Dataset):
 
         self.orbital_counts = {}
         for element, info in self.emb.items():
-            # 计算s, p, d, f轨道的电子数
+
             s_count = info.get('1s', 0) + info.get('2s', 0) + info.get('3s', 0) + info.get('4s', 0) + info.get('5s', 0) + info.get('6s', 0) + info.get('7s', 0)
             p_count = info.get('2p', 0) + info.get('3p', 0) + info.get('4p', 0) + info.get('5p', 0) + info.get('6p', 0) + info.get('7p', 0)
             d_count = info.get('3d', 0) + info.get('4d', 0) + info.get('5d', 0) + info.get('6d', 0)
             f_count = info.get('4f', 0) + info.get('5f', 0) + info.get('6f', 0)
         
-            # 将计算结果保存到字典中
             self.orbital_counts[element] = [s_count, p_count, d_count, f_count]
 
 
